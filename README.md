@@ -72,9 +72,9 @@ The models achieved the following AUC scores on the validation set:
   - Average: 0.8958
 
 ## Authors:
-  -Ángel de la Linde Valdés 
-  -María Ordieres Álvarez
-  -Alexia Durán Vizcaíno
+  - Ángel de la Linde Valdés 
+  - María Ordieres Álvarez
+  - Alexia Durán Vizcaíno
 
 ## License
 
