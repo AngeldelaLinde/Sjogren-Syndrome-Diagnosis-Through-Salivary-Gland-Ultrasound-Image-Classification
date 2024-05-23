@@ -18,13 +18,9 @@ This repository contains code for diagnosing Sjogren Syndrome through the classi
 
 ## Installation
 
-1. Clone this repository:
+Clone this repository:
     ```sh
     git clone https://github.com/your-username/sjogren-syndrome-diagnosis.git
-    ```
-2. Install the required packages:
-    ```sh
-    pip install -r requirements.txt
     ```
 
 ## Usage
